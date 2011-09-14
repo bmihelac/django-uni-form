@@ -101,7 +101,7 @@ class Submit(BaseInput):
 
 class Button(BaseInput):
     """
-    Used to create a Submit input descriptor for the uni_form template tag::
+    Used to create a Button input descriptor for the uni_form template tag::
 
         button = Button('Button 1', 'Press Me!')
     
